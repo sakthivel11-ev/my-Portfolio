@@ -52,7 +52,7 @@ const Projects = () => {
             <img src={project.img} alt={project.title} />
             <h3>{project.title}</h3>
             <p>{project.description}</p>
-            <a href="#" className="view-code">
+            <a href="https://sakthivel11-ev.github.io/Expense_Tracker/" className="view-code">
               View Code
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <polyline points="16 18 22 12 16 6"></polyline>
