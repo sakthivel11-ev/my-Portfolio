@@ -161,7 +161,7 @@ main .left {
   text-transform: uppercase;
   white-space: nowrap;
   overflow: hidden;
-  animation: reveal 2.5s steps(16) infinite alternate;
+  animation: reveal 2.5s steps(13) infinite alternate;
 }
 .left h1 span {
   color: var(--accent);
@@ -171,7 +171,7 @@ main .left {
     width: 0ch;
   }
   to {
-    width: 16ch;
+    width: 13ch;
   }
 }
 .left h2 {
